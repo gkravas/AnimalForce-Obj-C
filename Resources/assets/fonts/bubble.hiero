@@ -1,0 +1,17 @@
+font.size=40
+font.bold=false
+font.italic=false
+
+pad.top=6
+pad.right=6
+pad.bottom=6
+pad.left=6
+pad.advance.x=0
+pad.advance.y=0
+
+glyph.page.width=512
+glyph.page.height=1024
+
+effect.class=org.newdawn.slick.font.effects.ColorEffect
+effect.Color=000000
+
